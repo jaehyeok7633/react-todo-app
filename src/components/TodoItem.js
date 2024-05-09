@@ -1,5 +1,5 @@
 import React from 'react';
-import '../scss/todoItem.scss';
+import '../scss/TodoItem.scss';
 import { MdDelete, MdDone } from 'react-icons/md';
 
 const TodoItem = () => {
